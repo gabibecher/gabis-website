@@ -13,9 +13,9 @@ titleSeparator = ""
 colorScheme = ""
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-siteType = "Person"
+siteType = "EducationalOrganization"
 icon = "images/icon.png"
-publisherName = "C. Wang"
+publisherName = "G. Becher"
 publisherLogo = ""
 
 [math]

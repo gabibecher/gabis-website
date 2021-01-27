@@ -3,7 +3,7 @@ title = "Gabriela Aviv Becher"
 weight = 1
 draft = false
 
-role = "Example Role"
+role = " "
 bio = "I am taking a gap year before I begin college to explore electoral politics, data, community organizing, and organic farming."
 avatar = "images/icon.png"
 
