@@ -70,7 +70,7 @@ My name is Gabriela Aviv Becher. I was born and raised in Los Angeles, Californi
 
 After the 2016 election, I helped found [LA Teen GOTV](https://www.instagram.com/lateengotv/?hl=en) and I started a club called Right to Assemble at my high school—making activism accessible, sending 3,000 postcards to voters nationwide before the midterms, registering new voters at naturalization ceremonies, and planning two civics education weeks for grades 7-12. In the summer of 2018, I helped flip every red CA House seat blue, notably fmr. Rep Katie Hill, through being a founding member of [A New Tide](https://www.anewtide.org/), the youth branch of Congresswoman Karen Bass' [Sea Change PAC](https://seachangepac.org/).
 
-I took lots of CS classes all throughout high school, mostly working in [Processing](https://processing.org/). My favorite project were [interactive projections](https://youtu.be/nBXnVbHJ61U?t=6) that I created for my school’s dance concert using [depth data from a Kinect sensor in real-time](https://youtu.be/JTVFNBmRcZ8).
+I took lots of CS classes all throughout high school, mostly working in [Processing](https://processing.org/). My favorite project was an [interactive projections](https://youtu.be/nBXnVbHJ61U?t=6) that I created for my school’s dance concert using [depth data from a Kinect sensor in real-time](https://youtu.be/JTVFNBmRcZ8).
 
 My senior year of high school, I analyzed NC voter file in conjunction with Census data using Python to expose the racial discrimination of voter ID laws & felon disenfranchisement. I visualized my findings using Processing’s GeoMap library, and authored a 20 page research paper.
 
