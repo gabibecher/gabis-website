@@ -76,6 +76,6 @@ My senior year of high school, I analyzed NC voter file in conjunction with Cens
 
 I deferred my admission to Brown becuase I *needed* to be on the ground during the most important election of my lifetime. So, within a week, freshly-eighteen-year-old me packed up my bags and drove to Helena to join the data team at the [Montana Democratic Party](https://montanademocrats.org) in hopes of flipping the Senate. I learned more than I ever have about organizing, SQL, campaign technologies, and being a team player. I was hired as a data assistant and ended as a deputy data director. We fell short and it hurt, but I am beyond grateful for every moment and person I met in MT and am so proud of what our team accomplished for the state in the long run.
 
-Now, I'm heading to apprentice on [Keala'ola Farm](https://www.kealaolafarm.com/) on the Big Island of Hawai'i for three months. I'm so excited to learn about organic farming, food insecurity, and live in community.
+Now, I'm heading to apprentice on [Keala'ola Farm](https://www.kealaolafarm.com/) on the Big Island of Hawai'i for three months. I'm so excited to learn about organic farming, food insecurity, and live in community with new people.
 
 **I am a student, a progressive, a hiker, a reader, a tea drinker, and not naive, but sufficiently idealistic. I'm in the fight for my 2 little sisters, my grandparents, and the organizers who do scrappy, indispensable work in their own communities.**
