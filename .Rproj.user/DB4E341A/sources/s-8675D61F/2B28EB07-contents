@@ -78,4 +78,4 @@ I deferred my admission to Brown becuase I *needed* to be on the ground during t
 
 Now, I'm heading to apprentice on [Keala'ola Farm](https://www.kealaolafarm.com/) on the Big Island of Hawai'i for three months. I'm so excited to learn about organic farming, food insecurity, and live in community.
 
-**I am a student, a progressive, a hiker, a reader, and not naive, but sufficiently idealistic. I'm in the fight for my 2 little sisters, my grandparents, and the organizers who do scrappy, indispensable work in their own communities.**
+**I am a student, a progressive, a hiker, a reader, a tea drinker, and not naive, but sufficiently idealistic. I'm in the fight for my 2 little sisters, my grandparents, and the organizers who do scrappy, indispensable work in their own communities.**

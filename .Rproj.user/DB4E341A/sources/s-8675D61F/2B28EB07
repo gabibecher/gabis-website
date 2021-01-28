@@ -3,7 +3,7 @@
     "path": "~/gabi'ssite/content/homepage/about.md",
     "project_path": "content/homepage/about.md",
     "type": "markdown",
-    "hash": "677074918",
+    "hash": "620884704",
     "contents": "",
     "dirty": false,
     "created": 1611338505520.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "76,585",
+        "cursorPosition": "80,67",
         "scrollLine": "73"
     },
     "folds": "",
-    "lastKnownWriteTime": 1611796227,
+    "lastKnownWriteTime": 1611796264,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1611796227967,
+    "last_content_update": 1611796264352,
     "read_only": false,
     "read_only_alternatives": []
 }
