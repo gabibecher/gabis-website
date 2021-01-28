@@ -1,5 +1,5 @@
 +++
-title = "Gabriela Becher"
+title = "Gabriela Aviv Becher"
 weight = 1
 draft = false
 
