@@ -4,7 +4,7 @@ weight = 1
 draft = false
 
 role = "she/her"
-bio = "I am taking a gap year before I begin college to explore electoral politics, data, community organizing, and learn a lot about myself & the world outside of a classroom."
+bio = "I am taking a gap year before I begin college to explore electoral politics, data, and learn outside of a classroom."
 avatar = "images/icon.png"
 
 [organization]
